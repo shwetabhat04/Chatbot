@@ -1,0 +1,23 @@
+[
+    {
+        "required_word" :["how"],
+        "other_words" :["are","you"],
+        "response" : "I am fine,How are you?"
+    },
+    {
+        "required_word" :["hi"],
+        "other_words" :["hello","whats up"],
+        "response" : "Hi, Welcome to Python Course"
+    },
+    {
+        "required_word" :["courses","all"],
+        "other_words" :["detail","more","list"],
+        "response" : "Welcome we have below courses, \n 1.Python 2.Java 3.AWS"
+    },
+    {
+        "required_word" :["python","courses"],
+        "other_words" :["more","info"],
+        "response" : "We have python below topics which will be covered in our python courses"
+    }
+
+]
